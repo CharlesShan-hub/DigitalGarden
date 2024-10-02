@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: gardentool
+Version: 0.0.1
+Summary: Charles Digital Garden Tool
+Author-email: Charles <charles.shht@gmail.com>
+Requires-Python: >=3.7
