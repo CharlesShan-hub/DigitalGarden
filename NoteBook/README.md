@@ -1,7 +1,6 @@
 ---
-dg-publish: true
 dg-home: true
+dg-publish: true
 ---
-
-Charles Digital Graden
-
+* C: [[programming/c/README|README]]
+* Python: [[programming/python/README|README]]

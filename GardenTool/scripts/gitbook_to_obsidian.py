@@ -7,5 +7,5 @@ NOTEBOOK_PATH = "/Users/kimshan/Public/learn/DigitalGarden/NoteBook"
 converter = Converter()
 converter.load(GITBOOK_PATH)
 # converter.check(NOTEBOOK_PATH)
-converter.sync(NOTEBOOK_PATH)
-
+# converter.add(NOTEBOOK_PATH)
+converter.cover(NOTEBOOK_PATH)
